@@ -34,11 +34,11 @@ You can customize the credit card animation by adjusting the CSS properties in t
 
 ## Author
 
-[![Mohammad Hashim](https://github.com/mohammadhashim135/Cpp_Railway_management_System/blob/ac8c08284bcc8baa7445a0e7a37472e46ef90afc/author/1.jpg)](https://youtube.com/@ByteMazeHashim?si=5vcrIglNQO8i9Ram)
+[![Mohammad Hashim](https://github.com/mohammadhashim135/Cpp_Railway_management_System/blob/ac8c08284bcc8baa7445a0e7a37472e46ef90afc/author/1.jpg)]
 - Mohammad Hashim
 - Email: hashimmohammad1375@gmail.com
 - LinkedIn: [Mohammad Hashim](https://www.linkedin.com/in/mohammad-hashim-07ab362a6)
-- YouTube: [ByteMazeHashim](https://youtube.com/@ByteMazeHashim?si=5vcrIglNQO8i9Ram)
+- YouTube: [CodeResonance](https://youtube.com/@ByteMazeHashim?si=5vcrIglNQO8i9Ram)
 
 
 ## License
